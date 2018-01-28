@@ -1,0 +1,2 @@
+[Variables]
+mGMail.GoogleAppName=raingoo
